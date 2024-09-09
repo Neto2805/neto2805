@@ -1,7 +1,7 @@
 ## Olá eu sou o Neto lima 
 
 - 🔭 Sou TI.
-- 🌱 Estou fazendo Análise e desenvolvimento de Sistemas.
+- 🌱 Cursando Análise e desenvolvimento de Sistemas.
 - 😄 investindo em conhecimento 
 - 🎸 Toco guitarra 
 - 📘  Front-end
